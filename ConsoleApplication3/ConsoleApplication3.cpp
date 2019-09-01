@@ -37,6 +37,8 @@ int main()
 
 	delete[]score;
 	delete[]scoreFinal;
+
+	cout << "Bye" << endl;
 }
 
 
