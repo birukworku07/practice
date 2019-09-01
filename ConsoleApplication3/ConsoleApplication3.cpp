@@ -34,6 +34,9 @@ int main()
 		average = 0.0;
 	}
 	cout << "Average is:" << average << endl;
+
+	delete[]score;
+	delete[]scoreFinal;
 }
 
 
